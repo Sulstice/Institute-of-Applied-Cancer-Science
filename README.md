@@ -13,6 +13,10 @@ A lot of the instruments I used were state of the art ranging from Autocolumns, 
 
 My research was primarily focused on modifying an extant drug to improve liver clearance and also potentially increase the binding affinity of the drug. Using both a blend of experimental and computational highthroughput techniques we were able to contrive a pretty powerful therapeutic. 
 
+In parallel to the experimental synthesis there is also the the computational aspect, unfortunately I cannot dictate what was the target protein, final molecule, or software used to perform DFT calculations but I can provide a pretty picture!
+
+![ScreenShot](https://github.com/Sulstice/Institute-of-Applied-Cancer-Science/blob/master/imgs/JWqxD2A.png)
+
 And the story ends there......
 
-Coming soon - Mass Direct Systems!
+
